@@ -9,6 +9,7 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
 }
+.imagem "rounded-circle" width="150" height="150"
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
